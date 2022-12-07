@@ -511,6 +511,8 @@ Ennakkokäsitykseni oli, että peliohjelmointi vaatii erityisen paljon matemaatt
 
 Pelin suunnittelu ja luominen oli mielenkiintoista. Sain määräajassa luotua valmiin sovelluksen, mikä oli tavoitteenani. Tämä on isoin tekemäni projekti Python-ohjelmointikielellä ja koen, että taitoni ovat kehittyneet paljon sen aikana.
 
+Jatkokehityksenä kyseisen pelin suhteen haluaisin selvittää videon aikana löytämäni bugin liikkuviin tasoihin liittyen sekä olisi kiva luoda peliin esimerkiksi tasokartta.
+
 Projektin tekeminen on avannut peliohjelmoinnin maailmaa täysin uudella tavalla. Jotain minkä koin itselleni mahdottomaksi muuttuikin ihan realistiseksi asiaksi. Pygame on mielestäni hyvä työkalu pelien tekemisen aloittamiseen. Se tarjoaa paljon mahdollisuuksia ja sen avulla on helppo ymmärtää pelien perusideaa. Kaiken lisäksi se on ilmainen. Yksinkertaisen pelin pystyy luomaan esimerkiksi muutamalla suorakulmiolla, joille on asetettu arvoja, kuten liikettä tai törmäämisen yhteydessä liikken estäminen.
 
 Kokemukseni jälkeen voin lämpimästi suositella Pygamen kokeilemista. Omalla kohdallani aika vaan vierähti, kun pääsi tekemään ja kokeilemaan.
